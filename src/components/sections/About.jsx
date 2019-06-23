@@ -38,6 +38,9 @@ const About = (props) => {
           This tool is based on
           {' '}
           <a href="https://www.schwabmoneywise.com/public/file/P-4038856/Net-Worth-Worksheet.pdf">net worth worksheet from Charles Schwab</a>
+          . The source code of this application is open source and is available from
+          {' '}
+          <a href="https://github.com/tony-joseph/net-worth-calculator-react">Github</a>
           .
         </p>
         <p>

@@ -1,6 +1,8 @@
 # Net Worth Calculator
 
-A net worth calculator based on [net worth worksheet from Charles Schwab](https://www.schwabmoneywise.com/public/file/P-4038856/Net-Worth-Worksheet.pdf).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7165fc0c-28d9-424c-8e0f-2c9b7c7e8005/deploy-status)](https://app.netlify.com/sites/happy-curran-afee9b/deploys)
+
+A net worth calculator based on [net worth worksheet from Charles Schwab](https://www.schwabmoneywise.com/public/file/P-4038856/Net-Worth-Worksheet.pdf). An application built using this is available from [Crimson Hack](https://net-worth-calculator.crimsonhack.com/).
 
 
 ## How to Setup Development environment
