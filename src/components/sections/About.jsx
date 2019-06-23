@@ -26,7 +26,7 @@ const About = (props) => {
   return (
     <Modal isOpen={isOpen}>
       <ModalHeader>
-        About New Worth Calculator
+        About Net Worth Calculator
       </ModalHeader>
       <ModalBody>
         <p>

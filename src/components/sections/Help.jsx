@@ -26,7 +26,7 @@ const Help = (props) => {
   return (
     <Modal isOpen={isOpen}>
       <ModalHeader>
-        How to Use New Worth Calculator
+        How to Use Net Worth Calculator
       </ModalHeader>
       <ModalBody>
         <p>
