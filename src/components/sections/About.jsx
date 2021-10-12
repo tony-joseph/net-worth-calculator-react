@@ -43,15 +43,6 @@ const About = (props) => {
           <a href="https://github.com/tony-joseph/net-worth-calculator-react">Github</a>
           .
         </p>
-        <p>
-          Net worth calculator is part of
-          {' '}
-          <a href="https://crimsonhack.com">Crimson Hack&apos;s</a>
-          {' '}
-          finance tool set. All rights are reserved with
-          {' '}
-          <a href="https://tonyj.me">Tony Joseph</a>
-        </p>
       </ModalBody>
       <ModalFooter>
         <Button color="danger" onClick={handleCancel}>Close</Button>
